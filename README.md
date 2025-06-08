@@ -7,4 +7,4 @@ Uses current savant pitching data to build heatmaps and most likely pitch tables
 
 Each chart contains pitch type, zone, number of times that pitch has been thrown in that zone in that count, and the % that that pitch has been thrown in that zone in that count.
 
-Currently an error with zones. Looking for a solution to split zones in half where 11, 12, 13, and 14 meet.
+Includes TTO data for 1st through 4th time through the order.
