@@ -11,6 +11,8 @@ A frequentist approach to pitch prediction and tendencies
 
 * Working on creating charts for extended at-bats (i.e. multiple foul balls)
 
+* Add a simple strike% and ball% for each count, as well as for each pitch type thrown in each count
+
 Goals limited by current data available:
 
 * X,Y positions for pitches so that a contour plot can be created
