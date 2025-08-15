@@ -15,6 +15,9 @@ A frequentist approach to pitch prediction and tendencies
 
 Goals limited by current data available:
 
-* X,Y positions for pitches so that a contour plot can be created
-
 * A metric which I'm calling "Pitcher effectiveness" which uses various advanced datasets to determine where the pitcher meant to throw the ball and where it ended up.
+
+
+To Do:
+* Classify and group hitters based on type (e.g. power vs contact) and generate data for each hitter type and handedness.
+* X and Y heatmaps
