@@ -19,5 +19,5 @@ Goals limited by current data available:
 
 
 To Do:
-* Classify and group hitters based on type (e.g. power vs contact) and generate data for each hitter type and handedness.
+* Classify and group hitters based on type (e.g. power vs contact) using K-means Clustering and generate data for each hitter type and handedness.
 * X and Y heatmaps
