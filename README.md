@@ -18,6 +18,7 @@ Goals limited by current data available:
 * A metric which I'm calling "Pitcher effectiveness" which uses various advanced datasets to determine where the pitcher meant to throw the ball and where it ended up.
 
 
-To Do:
-* Classify and group hitters based on type (e.g. power vs contact) using K-means Clustering and generate data for each hitter type and handedness.
-* X and Y heatmaps
+# To Do:
+* See about creating a streamlit app.
+* Classify and group hitters based on type (e.g. power vs contact) using K-means Clustering and generate data for each hitter type and handedness. < - Long term
+* X and Y heatmaps ✔
